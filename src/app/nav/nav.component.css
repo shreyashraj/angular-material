@@ -1,0 +1,8 @@
+.right {
+    position: relative;
+    right: 0;
+}
+
+.example-fill-remaining-space {
+    flex: 1 1 auto;
+  }
